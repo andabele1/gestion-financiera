@@ -16,7 +16,7 @@ Use of a virtual enviroment fram good practices.
 
 ### From de use the dependences
 
-´´´
+```
 
 cd back-gestion-financiera-app
 
@@ -26,13 +26,13 @@ venv/Scripts/activate
 
 pip install -r requirements
 
-´´´
+```
 
-´´´
+```
 
 cd ../gestion-financiera-app
 
 npm install
 
-´´´
+```
 
